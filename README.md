@@ -65,18 +65,32 @@ A comprehensive **Power BI report** was created to visualize key metrics and tre
 ### **Dashboard Sections**
 1. **📅 Overview**
    - Ride Volume Over Time  
-   - Booking Status Breakdown  
+   - Booking Status Breakdown
+  
+   Templete 1 : ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%201.png)
+
 2. **🚗 Vehicle Analysis**
    - Top 5 Vehicle Types by Distance  
-   - Average Ratings per Vehicle Type  
+   - Average Ratings per Vehicle Type
+  
+   Templete 2 : ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%202.png)
+
 3. **💰 Revenue Analysis**
    - Revenue by Payment Method  
-   - Top 5 Customers by Booking Value  
+   - Top 5 Customers by Booking Value
+
+   Templete 3 : ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%203.png)
+   
 4. **❌ Cancellation Insights**
-   - Reasons for Customer & Driver Cancellations  
-5. **⭐ Ratings Analysis**
+   - Reasons for Customer & Driver Cancellations
+  
+   Templete 4 : ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%204.png)
+   
+6. **⭐ Ratings Analysis**
    - Driver vs Customer Ratings Correlation  
-   - Ratings Distribution by Vehicle  
+   - Ratings Distribution by Vehicle
+
+   Templete 5 : ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%205.png)
 
 ---
 
@@ -113,17 +127,8 @@ A comprehensive **Power BI report** was created to visualize key metrics and tre
 | **Power BI** | Interactive dashboard visualization |
 | **Excel / CSV** | Data preprocessing and simulation |
 
-### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%201.png)
 
-Example: ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%202.png)
 
-Example: ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%203.png)
-
-Example: ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%204.png)
-
-Example: ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%205.png)
 
 ---
 
