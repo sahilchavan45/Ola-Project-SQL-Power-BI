@@ -116,6 +116,14 @@ A comprehensive **Power BI report** was created to visualize key metrics and tre
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%201.png)
+
+Example: ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%201.png)
+
+Example: ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%201.png)
+
+Example: ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%201.png)
+
+Example: ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%201.png)
 ---
 
 ---
