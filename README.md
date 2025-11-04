@@ -113,6 +113,9 @@ A comprehensive **Power BI report** was created to visualize key metrics and tre
 | **Power BI** | Interactive dashboard visualization |
 | **Excel / CSV** | Data preprocessing and simulation |
 
+### 6.	Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview]()
 ---
 
 ---
